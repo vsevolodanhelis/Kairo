@@ -3,7 +3,7 @@
 Kairo is a comprehensive productivity app that combines task management, habit tracking, weekly planning, AI assistance, and analytics with a beautiful glass morphism interface.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Version](https://img.shields.io/badge/version-1.0.0-green.svg)](https://github.com/yourusername/kairo-app)
+[![Version](https://img.shields.io/badge/version-1.0.0-green.svg)](https://github.com/vsevolodanhelis/Kairo)
 
 ## 📋 Table of Contents
 
