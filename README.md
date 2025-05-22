@@ -13,7 +13,6 @@ Kairo is a comprehensive productivity app that combines task management, habit t
 - [Tech Stack](#-tech-stack)
 - [Project Structure](#-project-structure)
 - [License](#-license)
-- [Roadmap](#-roadmap)
 
 ## ✨ Features
 
@@ -73,8 +72,8 @@ Kairo is a comprehensive productivity app that combines task management, habit t
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/kairo-app.git
-cd kairo-app
+git clone https://github.com/vsevolodanhelis/Kairo.git
+cd Kairo
 ```
 
 2. Install dependencies:
@@ -174,20 +173,3 @@ src/
 ## 📄 License
 
 This project is licensed under the MIT License.
-
-## 🔮 Roadmap
-
-- **Version 1.1**
-  - Integration with calendar apps
-  - Enhanced AI assistant capabilities
-  - Improved offline support
-
-- **Version 1.2**
-  - Web application version
-  - Cloud synchronization
-  - Advanced analytics dashboard
-
-- **Version 2.0**
-  - Team collaboration features
-  - AI-powered productivity insights
-  - Custom automation workflows
